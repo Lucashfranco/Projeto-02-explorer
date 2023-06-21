@@ -16,8 +16,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="projeto-02" src="![image](https://github.com/Lucashfranco/Projeto-02-explorer/assets/115523712/05ca90a4-2785-4d1c-9e27-ab36f508ed84)
-" width="100%">
+  <img alt="projeto-02" src=["![image](https://github.com/Lucashfranco/Projeto-02-explorer/assets/115523712/05ca90a4-2785-4d1c-9e27-ab36f508ed84)
+"](https://www.figma.com/file/hr9mdoUu0OGpyYXGuK2qyp/Explorer---Projeto-02-(Copy)?type=design&node-id=1-5&t=zThLIG9VlWGUJFSb-4) width="100%">
 </p>
 
 ## 🚀 Tecnologias
