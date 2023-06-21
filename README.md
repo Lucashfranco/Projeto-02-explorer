@@ -14,6 +14,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <br>
+## Layout
 
 ![Logo](https://github.com/Lucashfranco/Projeto-02-explorer/blob/main/images/ready.png)
 
